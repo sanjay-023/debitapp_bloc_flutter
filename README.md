@@ -1,16 +1,10 @@
 # debitapp_bloc
 
-A new Flutter project.
+A simple ui of a wallet app which list user data fetched from api
 
-## Getting Started
+## Packages & Libraries used
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- bloc_flutter
+- screen_util
+- http
+- carousel_slider
